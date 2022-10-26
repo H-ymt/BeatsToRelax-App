@@ -56,9 +56,9 @@ body {
 }
 
 .player-container .replay {
-    bottom: 30%;
+    bottom: 32%;
     width: 100%;
-    max-width: 40px;
+    max-width: 30px;
 }
 
 .player-container svg {
