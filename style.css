@@ -55,10 +55,17 @@ body {
     min-width: 30px;
 }
 
+
+.sound-picker p {
+    color: #ffff;
+    padding: 3px 5px;
+    background: rgba(37, 164, 210, 0.866);
+}
+
 .player-container .replay {
     bottom: 32%;
     width: 100%;
-    max-width: 30px;
+    max-width: 28px;
 }
 
 .player-container svg {
@@ -101,8 +108,8 @@ video {
 .sound-picker button {
     color: #fefffe;
     width: 100%;
-    max-width: 60px;
-    max-height: 60px;
+    max-width: 50px;
+    max-height: 50px;
     height: 8%;
     background: #352e2ec2;
     border: 2px solid #000000f0;
